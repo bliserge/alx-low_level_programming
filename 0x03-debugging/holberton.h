@@ -6,4 +6,3 @@
 void positive_or_negative(int);
 
 #endif /* HOLBERTON_H */
-
